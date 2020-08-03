@@ -12,6 +12,7 @@
     "cypress": "^3.8.1"
   },
   "dependencies": {
+    "bcrypt": "^5.0.0",
     "chance": "^1.1.4"
   }
 }
